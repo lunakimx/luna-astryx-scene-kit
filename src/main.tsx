@@ -41,6 +41,7 @@ import './daily-signal-preview.css';
 import './daily-signal-preview.ts';
 import './daily-signal-dashboard.css';
 import './daily-signal-dashboard.ts';
+import './contest-manual-inject.ts';
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
