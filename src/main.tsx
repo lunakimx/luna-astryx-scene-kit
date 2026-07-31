@@ -33,6 +33,7 @@ import './trend-radar-title-safe.css';
 import './x-viral-preview.css';
 import './x-viral-preview.ts';
 import './mobile-nav.ts';
+import './creator-tools-extra.ts';
 import './visitor-counter-status.ts';
 import './luna-signal-brand.css';
 import './luna-signal-brand.ts';
