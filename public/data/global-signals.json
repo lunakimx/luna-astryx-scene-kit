@@ -1,6 +1,6 @@
 {
   "source": "https://higgsfield.ai/",
-  "fetched_at": "2026-08-04T19:51:44.081Z",
+  "fetched_at": "2026-08-05T03:27:23.928Z",
   "verified_at": "2026-07-13T04:24:00.000Z",
   "mode": "fallback",
   "items": [
@@ -35,6 +35,6 @@
       "url": "https://higgsfield.ai/supercomputer/marketplace/skills/higgsfield-explainer"
     }
   ],
-  "generated_at": "2026-08-04T19:51:44.081Z",
+  "generated_at": "2026-08-05T03:27:23.928Z",
   "schedule": "every-6-hours"
 }
