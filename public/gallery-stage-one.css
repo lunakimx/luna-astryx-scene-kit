@@ -10,26 +10,7 @@
 }
 
 .hero {
-  width: 100%;
-  padding: 24px 30px 20px;
-  border-bottom: 1px solid rgba(23, 23, 20, 0.12);
-}
-
-.hero-kicker,
-.hero-bottom {
   display: none;
-}
-
-.hero h1 {
-  max-width: none;
-  font-size: clamp(26px, 3.1vw, 46px);
-  line-height: 1;
-  letter-spacing: -0.07em;
-}
-
-.hero h1 span {
-  display: inline;
-  margin: 0 0 0 0.18em;
 }
 
 .gallery-tools {
@@ -192,14 +173,6 @@
 @media (max-width: 700px) {
   .site-header {
     padding: 0 14px;
-  }
-
-  .hero {
-    padding: 18px 14px 16px;
-  }
-
-  .hero h1 {
-    font-size: 27px;
   }
 
   .gallery-tools {
